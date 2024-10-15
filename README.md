@@ -61,6 +61,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Support
 If you find this project useful, consider supporting me by buying me a coffee! ☕  
+
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200">](https://www.buymeacoffee.com/wiselinjayjayajos)
 
 
