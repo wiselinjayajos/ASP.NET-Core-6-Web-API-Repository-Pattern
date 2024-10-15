@@ -17,11 +17,10 @@ Follow these instructions to get the project up and running:
 - [SQL Server](https://www.microsoft.com/en-us/sql-server) or any compatible database (if using EF Core)
 
 ## Installation
-Clone the repository:
+1. Clone the repository:
+```bash
+   git clone [https://github.com/yourusername/aspnet-core-6-webapi-boilerplate.git](https://github.com/wiselinjayajos/ASP.NET-Core-6-Web-API-Repository-Pattern.git)
 
-bash
-Copy code
-git clone https://github.com/yourusername/aspnet-core-6-webapi-boilerplate.git
 Navigate to the project directory:
 
 bash
