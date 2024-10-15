@@ -3,11 +3,11 @@
 This project is a boilerplate template for creating a Web API using ASP.NET Core 6. It implements the Repository Pattern and uses Entity Framework Core for data access. This template is designed as a starter point for any ASP.NET Core Web API project, providing a clean and modular codebase with sample data.
 
 ## Features
--**ASP.NET Core 6**: Leverages the latest features and improvements in ASP.NET Core 6.
--**Repository Pattern**: Provides a clean separation of concerns and makes it easy to swap out data storage methods.
--**Entity Framework Core**: Uses EF Core for data access, making it easy to query and manage data in a database.
--**Sample Data**: Includes sample data models and seed data for easy setup and testing.
--**Swagger Integration**: Pre-configured Swagger UI for API testing and documentation.
+- **ASP.NET Core 6**: Leverages the latest features and improvements in ASP.NET Core 6.
+- **Repository Pattern**: Provides a clean separation of concerns and makes it easy to swap out data storage methods.
+- **Entity Framework Core**: Uses EF Core for data access, making it easy to query and manage data in a database.
+- **Sample Data**: Includes sample data models and seed data for easy setup and testing.
+- **Swagger Integration**: Pre-configured Swagger UI for API testing and documentation.
 
 ## Getting Started
 Follow these instructions to get the project up and running:
