@@ -29,7 +29,7 @@ Follow these instructions to get the project up and running:
    ```bash
    dotnet restore
 
-4. Update the database (if using EF Core):
+4. Update the database (if using EF Core): (As this code is not using db, this can be skipped)
    ```bash
    dotnet ef database update
 
@@ -37,7 +37,11 @@ Follow these instructions to get the project up and running:
    ```bash
    dotnet run
    
-The API will be accessible at https://localhost:5001 or http://localhost:5000.
+The API will be accessible at [https://localhost:5001](https://localhost:5001) or [http://localhost:5000](http://localhost:5000).
+
+- [GetEmployees API](https://localhost:5001/hriswebapi/GetEmployees?pageNumber=1&pageSize=10)
+- [GetEmployee API](https://localhost:5001/hriswebapi/GetEmployee?id=2)
+
 
 ## Project Structure
 The project follows a modular structure:
