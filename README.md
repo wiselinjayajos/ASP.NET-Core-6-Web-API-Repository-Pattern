@@ -60,7 +60,8 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Support
-If you find this project useful, consider supporting me by buying me a coffee! ☕
+If you find this project useful, consider supporting me by buying me a coffee! ☕  
+
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200">](https://www.buymeacoffee.com/wiselinjayjayajos)
 
 
