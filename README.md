@@ -45,7 +45,7 @@ The project follows a modular structure:
 - **Controllers**: API controllers for handling HTTP requests.
 - **Repositories**: Interfaces and implementations for accessing data.
 - **Models**: Data models representing entities in the database.
-- **Data**: EF Core DbContext and seed data initialization.
+- **Data**: This boilerplate is using sample data (static data).
 
 ## Usage
 1. Customize the models, repositories, and controllers according to your project's requirements.
@@ -58,7 +58,8 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
+### Support
+If you find this project useful, consider supporting me by buying me a coffee! ☕
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200">](https://www.buymeacoffee.com/wiselinjayjayajos)
 
 
