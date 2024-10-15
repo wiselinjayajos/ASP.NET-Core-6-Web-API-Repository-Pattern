@@ -18,60 +18,47 @@ Follow these instructions to get the project up and running:
 
 ## Installation
 1. Clone the repository:
-```bash
-   git clone [https://github.com/yourusername/aspnet-core-6-webapi-boilerplate.git](https://github.com/wiselinjayajos/ASP.NET-Core-6-Web-API-Repository-Pattern.git)
+   ```bash
+   git clone https://github.com/wiselinjayajos/ASP.NET-Core-6-Web-API-Repository-Pattern.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
+   ```bash
+   cd ASP.NET-Core-6-Web-API-Repository-Pattern
 
-bash
-Copy code
-cd aspnet-core-6-webapi-boilerplate
-Restore the packages:
+3. Restore the packages:
+   ```bash
+   dotnet restore
 
-bash
-Copy code
-dotnet restore
-Update the database (if using EF Core):
+4. Update the database (if using EF Core):
+   ```bash
+   dotnet ef database update
 
-bash
-Copy code
-dotnet ef database update
-Run the application:
-
-bash
-Copy code
-dotnet run
+5. Run the application:
+   ```bash
+   dotnet run
+   
 The API will be accessible at https://localhost:5001 or http://localhost:5000.
 
 ## Project Structure
 The project follows a modular structure:
 
-Controllers: API controllers for handling HTTP requests.
-Repositories: Interfaces and implementations for accessing data.
-Models: Data models representing entities in the database.
-Data: EF Core DbContext and seed data initialization.
+- **Controllers**: API controllers for handling HTTP requests.
+- **Repositories**: Interfaces and implementations for accessing data.
+- **Models**: Data models representing entities in the database.
+- **Data**: EF Core DbContext and seed data initialization.
 
-Usage
-Customize the models, repositories, and controllers according to your project's requirements.
-Update the connection string in appsettings.json to point to your database.
-Use Swagger (/swagger/index.html) for testing and documentation.
-Contributing
+## Usage
+1. Customize the models, repositories, and controllers according to your project's requirements.
+2. Update the connection string in appsettings.json to point to your database.
+3. Use Swagger (/swagger/index.html) for testing and documentation.
+
+## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-
-
-
-
-
-
-
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200">](https://www.buymeacoffee.com/wiselinjayjayajos)
-
-
-
 
 
