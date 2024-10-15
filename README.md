@@ -44,6 +44,7 @@ The project follows a modular structure:
 
 - **Controllers**: API controllers for handling HTTP requests.
 - **Repositories**: Interfaces and implementations for accessing data.
+- **Services**: Business logic layer that interacts with repositories and is used by controllers to handle API requests.
 - **Models**: Data models representing entities in the database.
 - **Data**: This boilerplate is using sample data (static data).
 
